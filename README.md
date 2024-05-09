@@ -7,4 +7,4 @@ The API used is from API-FOOTBALL
 ✓
 By API-SPORTS
 
-In order for the code to work, you have to create an API key from their website and paste it into the api_key variable.
+In order for the code to work, you have to create an API key from their website and paste it into the api_key variable in the api_functions.py
